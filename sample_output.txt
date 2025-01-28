@@ -1,0 +1,1059 @@
+Query: Design a week-long home workout routine
+Time taken: 16.72 seconds
+--------------------------------------------------------------------------------
+Period: week
+Title: Design Week-Long Home Workout Routine
+Number of entries: 7
+
+Complete Plan Details:
+{
+  "entries": [
+    {
+      "date": "2025-02-03",
+      "description": {
+        "duration": "45-60 minutes",
+        "equipment": [
+          "Exercise mat"
+        ],
+        "exercises": [
+          "Warm-up: Jumping Jacks (30 sec), High Knees (30 sec), Butt Kicks (30 sec)",        
+          "Squats: 3 sets of 10-12 reps",
+          "Lunges (alternating legs): 3 sets of 10-12 reps per leg",
+          "Glute Bridges: 3 sets of 15-20 reps",
+          "Calf Raises: 3 sets of 15-20 reps",
+          "Cool-down: Static stretches holding each for 30 seconds (quadriceps, hamstrings, calves)"
+        ],
+        "intensity": "Moderate",
+        "notes": [
+          "Maintain proper form throughout each exercise to prevent injury.",
+          "Focus on controlled movements and full range of motion.",
+          "Increase reps or sets as you get stronger."
+        ]
+      },
+      "period": "day",
+      "periodName": "Monday",
+      "title": "Lower Body Strength"
+    },
+    {
+      "date": "2025-01-28",
+      "description": {
+        "duration": "45-60 minutes",
+        "equipment": [
+          "Exercise mat",
+          "Water bottles or cans (optional)"
+        ],
+        "exercises": [
+          "Warm-up: Arm circles (forward and backward, 30 sec each), shoulder rotations (30 sec)",
+          "Push-ups: 3 sets of as many reps as possible (AMRAP)",
+          "Incline Push-ups (hands on elevated surface): 3 sets of 10-12 reps",
+          "Rows (using a sturdy table or chair): 3 sets of 10-12 reps",
+          "Overhead Press (using water bottles or cans): 3 sets of 10-12 reps",
+          "Cool-down: Static stretches holding each for 30 seconds (chest, shoulders, triceps, biceps)"
+        ],
+        "intensity": "Moderate",
+        "notes": [
+          "Maintain a straight back during rows to engage back muscles effectively.",
+          "Control the movement during overhead press to avoid injury.",
+          "Gradually increase the weight or resistance as you progress."
+        ]
+      },
+      "period": "day",
+      "periodName": "Tuesday",
+      "title": "Upper Body Strength"
+    },
+    {
+      "date": "2025-01-29",
+      "description": {
+        "duration": "60 minutes",
+        "equipment": [
+          "Yoga mat (optional)"
+        ],
+        "exercises": [
+          "Light cardio, such as a brisk walk or cycling (30 minutes)",
+          "Yoga or stretching (30 minutes)"
+        ],
+        "intensity": "Low",
+        "notes": [
+          "Focus on gentle movements and relaxation.",
+          "Listen to your body and avoid any strenuous activity."
+        ]
+      },
+      "period": "day",
+      "periodName": "Wednesday",
+      "title": "Rest or Active Recovery"
+    },
+    {
+      "date": "2025-01-30",
+      "description": {
+        "duration": "45-60 minutes",
+        "equipment": [
+          "Exercise mat"
+        ],
+        "exercises": [
+          "Warm-up: Torso twists (30 sec), leg raises (30 sec)",
+          "Plank: 3 sets, hold for 30-60 seconds",
+          "Crunches: 3 sets of 15-20 reps",
+          "Bicycle Crunches: 3 sets of 15-20 reps per side",
+          "Side Plank (each side): 3 sets, hold for 30-60 seconds",
+          "Single-leg balance (each leg): 3 sets, hold for 30 seconds",
+          "Cool-down: Static stretches holding each for 30 seconds (abs, obliques, lower back)"
+        ],
+        "intensity": "Moderate",
+        "notes": [
+          "Engage your core throughout each exercise.",
+          "Maintain proper form to avoid strain.",
+          "Increase hold time or reps as you get stronger."
+        ]
+      },
+      "period": "day",
+      "periodName": "Thursday",
+      "title": "Core Strength & Balance"
+    },
+    {
+      "date": "2025-01-31",
+      "description": {
+        "duration": "45-60 minutes",
+        "equipment": [
+          "Exercise mat"
+        ],
+        "exercises": [
+          "Warm-up: Jumping Jacks (60 sec), Burpees (10 reps)",
+          "Squats: 15 reps",
+          "Push-ups: AMRAP",
+          "Lunges (10 reps per leg)",
+          "Rows (12 reps)",
+          "Plank: 30 seconds",
+          "Repeat circuit 3 times",
+          "Cool-down: Static stretches holding each for 30 seconds (full body)"
+        ],
+        "intensity": "High",
+        "notes": [
+          "Maintain a fast pace throughout the circuit.",
+          "Rest for 1 minute between circuits.",
+          "Modify exercises as needed to maintain proper form."
+        ]
+      },
+      "period": "day",
+      "periodName": "Friday",
+      "title": "Full Body Circuit"
+    },
+    {
+      "date": "2025-02-01",
+      "description": {
+        "duration": "30-45 minutes",
+        "equipment": [
+          "Exercise mat"
+        ],
+        "exercises": [
+          "Warm-up: Jumping Jacks (60 sec), High Knees (30 sec), Butt Kicks (30 sec)",        
+          "Burpees: 30 seconds",
+          "Mountain Climbers: 30 seconds",
+          "Jumping Jacks: 30 seconds",
+          "Rest: 30 seconds",
+          "Repeat the sequence 4 times",
+          "Cool-down: Static stretches holding each for 30 seconds (full body)"
+        ],
+        "intensity": "High",
+        "notes": [
+          "Give your all during the work intervals.",
+          "Rest adequately to recover between intervals.",
+          "Adjust the intensity based on your fitness level."
+        ]
+      },
+      "period": "day",
+      "periodName": "Saturday",
+      "title": "HIIT Cardio"
+    },
+    {
+      "date": "2025-02-02",
+      "description": {
+        "duration": "30-60 minutes",
+        "equipment": [
+          "Yoga mat (optional)"
+        ],
+        "exercises": [
+          "Light walk or yoga (30-60 minutes)"
+        ],
+        "intensity": "Low",
+        "notes": [
+          "Focus on mobility and flexibility.",
+          "Listen to your body and avoid pushing yourself too hard."
+        ]
+      },
+      "period": "day",
+      "periodName": "Sunday",
+      "title": "Rest or Active Recovery"
+    }
+  ],
+  "period": "week",
+  "title": "Design Week-Long Home Workout Routine"
+}
+================================================================================
+
+Press Enter to continue to next test...
+Query: Create a month-long fitness plan
+Time taken: 12.98 seconds
+--------------------------------------------------------------------------------
+Period: month
+Title: Create Month-Long Fitness Plan
+Number of entries: 4
+
+Complete Plan Details:
+{
+  "entries": [
+    {
+      "date": "2025-01-27 to 2025-02-02",
+      "description": {
+        "duration": "45 minutes",
+        "equipment": [
+          "Exercise mat"
+        ],
+        "exercises": [
+          "Warm-up: Jumping jacks (30 sec), High knees (30 sec), Butt kicks (30 sec)",        
+          "Squats: 3 sets of 10 reps",
+          "Push-ups (on knees if needed): 3 sets of as many reps as possible (AMRAP)",        
+          "Walking lunges: 3 sets of 10 reps per leg",
+          "Plank: 3 sets, hold for 30 seconds",
+          "Cool-down: Static stretches (10 minutes), focusing on quads, hamstrings, and chest"
+        ],
+        "intensity": "Moderate",
+        "notes": [
+          "Focus on proper form.  Watch videos to ensure correct technique.",
+          "Listen to your body and rest when needed.",
+          "Stay hydrated throughout the workout."
+        ]
+      },
+      "period": "week",
+      "periodName": "Week 1: Building a Base",
+      "title": "Beginner Strength Training"
+    },
+    {
+      "date": "2025-02-03 to 2025-02-09",
+      "description": {
+        "duration": "50 minutes",
+        "equipment": [
+          "Exercise mat"
+        ],
+        "exercises": [
+          "Warm-up: Jumping jacks (45 sec), High knees (45 sec), Butt kicks (45 sec)",        
+          "Squats: 3 sets of 12 reps",
+          "Push-ups (modify as needed): 3 sets of AMRAP",
+          "Walking lunges: 3 sets of 12 reps per leg",
+          "Plank: 3 sets, hold for 45 seconds",
+          "Crunches: 3 sets of 15 reps",
+          "Cool-down: Static stretches (10 minutes), including calf stretches and tricep stretches"
+        ],
+        "intensity": "Moderate-High",
+        "notes": [
+          "Increase reps or sets if you feel comfortable. Maintain proper form.",
+          "Rest for 60 seconds between sets.",
+          "Listen to your body and adjust intensity as needed."
+        ]
+      },
+      "period": "week",
+      "periodName": "Week 2: Increasing Intensity",
+      "title": "Strength Training Progression"
+    },
+    {
+      "date": "2025-02-10 to 2025-02-16",
+      "description": {
+        "duration": "60 minutes",
+        "equipment": [
+          "Exercise mat",
+          "Light dumbbells (2-5 lbs)"
+        ],
+        "exercises": [
+          "Warm-up: Dynamic stretches (5 minutes), including arm circles and leg swings",     
+          "Squats: 3 sets of 15 reps",
+          "Push-ups (modify as needed): 3 sets of AMRAP",
+          "Walking lunges: 3 sets of 15 reps per leg, holding dumbbells (2-5 lbs)",
+          "Plank: 3 sets, hold for 60 seconds",
+          "Crunches: 3 sets of 20 reps",
+          "Burpees: 3 sets of 10 reps",
+          "Cool-down: Static stretches (10 minutes), focusing on all major muscle groups"     
+        ],
+        "intensity": "High",
+        "notes": [
+          "Focus on controlled movements and maintain proper form.",
+          "Increase weight if comfortable, but prioritize form over weight.",
+          "Rest as needed between sets and exercises."
+        ]
+      },
+      "period": "week",
+      "periodName": "Week 3: Adding Challenge",
+      "title": "Strength & Cardio Blend"
+    },
+    {
+      "date": "2025-02-17 to 2025-02-23",
+      "description": {
+        "duration": "60-75 minutes",
+        "equipment": [
+          "Exercise mat",
+          "Dumbbells (increase weight as tolerated)",
+          "Optional: Running shoes"
+        ],
+        "exercises": [
+          "Warm-up: Dynamic stretches (5 minutes)",
+          "Squats: 4 sets of 15 reps, increase weight if possible",
+          "Push-ups (on toes if possible): 4 sets of AMRAP",
+          "Walking lunges: 4 sets of 15 reps per leg, increase weight if possible",
+          "Plank: 4 sets, hold for 60-75 seconds",
+          "Crunches: 4 sets of 20 reps",
+          "Burpees: 3 sets of 12 reps",
+          "Optional:  Incorporate interval running or cycling (20-30 minutes)",
+          "Cool-down: Static stretches (10 minutes)"
+        ],
+        "intensity": "High",
+        "notes": [
+          "Continue to focus on proper form and controlled movements.",
+          "Progress gradually, increasing weight, reps, or sets as you feel comfortable.",    
+          "Listen to your body and rest when needed.  Don't push through pain."
+        ]
+      },
+      "period": "week",
+      "periodName": "Week 4:  Maintaining & Progressing",
+      "title": "Advanced Strength Training"
+    }
+  ],
+  "period": "month",
+  "title": "Create Month-Long Fitness Plan"
+}
+
+Query: Make a daily IELTS study schedule
+Time taken: 21.31 seconds
+--------------------------------------------------------------------------------
+Period: week
+Title: Make Daily IELTS Study Schedule
+Number of entries: 7
+
+Complete Plan Details:
+{
+  "entries": [
+    {
+      "date": "2025-02-03",
+      "description": {
+        "goals": [
+          "Understand the IELTS Reading test format",
+          "Master basic skimming techniques",
+          "Accurately identify main ideas in a sample passage"
+        ],
+        "resources": [
+          "Official IELTS Practice Materials",
+          "IELTS Reading Strategy Guide (Online Resource)"
+        ],
+        "schedule": {
+          "afternoon": [
+            "Read a sample passage focusing on main ideas (45 mins)",
+            "Answer practice questions based on the passage (45 mins)",
+            "Review answers and strategies (30 mins)"
+          ],
+          "evening": [
+            "Review skimming techniques (30 mins)",
+            "Plan Tuesday's Reading practice (15 mins)",
+            "Reflect on today's progress (15 mins)"
+          ],
+          "morning": [
+            "Review IELTS Reading format (30 mins)",
+            "Practice Skimming (1 hour)",
+            "Review answers and identify areas for improvement (30 mins)"
+          ]
+        },
+        "topics": [
+          "IELTS Reading Test Overview",
+          "Skimming Techniques for Identifying Main Ideas",
+          "Practice Skimming a Sample Passage"
+        ]
+      },
+      "period": "day",
+      "periodName": "Monday",
+      "title": "Monday's Focus: Reading - Introduction & Skimming"
+    },
+    {
+      "date": "2025-02-04",
+      "description": {
+        "goals": [
+          "Improve scanning skills for locating specific information",
+          "Increase accuracy in answering detail questions",
+          "Complete a timed practice test within the time limit"
+        ],
+        "resources": [
+          "Official IELTS Practice Materials",
+          "IELTS Reading Tips and Tricks (Online Video)"
+        ],
+        "schedule": {
+          "afternoon": [
+            "Complete a timed practice test focusing on detail questions (1 hour)",
+            "Review answers and identify weaknesses (30 mins)",
+            "Analyze common errors (30 mins)"
+          ],
+          "evening": [
+            "Review strategies for detail questions (30 mins)",
+            "Plan Wednesday's Reading focus (15 mins)",
+            "Reflect on progress (15 mins)"
+          ],
+          "morning": [
+            "Review scanning techniques (30 mins)",
+            "Practice scanning for specific information (1 hour)",
+            "Analyze answers and refine technique (30 mins)"
+          ]
+        },
+        "topics": [
+          "Scanning Techniques for Specific Information",
+          "Answering Detail Questions Effectively",
+          "Practice with Timed Exercises"
+        ]
+      },
+      "period": "day",
+      "periodName": "Tuesday",
+      "title": "Tuesday's Focus: Reading - Scanning & Detail Questions"
+    },
+    {
+      "date": "2025-02-05",
+      "description": {
+        "goals": [
+          "Improve ability to infer meaning from passages",
+          "Master strategies for completing summary questions",
+          "Increase accuracy in answering inference and summary questions"
+        ],
+        "resources": [
+          "Official IELTS Practice Materials",
+          "IELTS Reading Vocabulary Building Exercises"
+        ],
+        "schedule": {
+          "afternoon": [
+            "Complete a practice test focusing on summary completion (1 hour)",
+            "Review answers and strategies (30 mins)",
+            "Identify areas for improvement (30 mins)"
+          ],
+          "evening": [
+            "Review strategies for summary completion (30 mins)",
+            "Plan Thursday's Reading focus (15 mins)",
+            "Reflect on progress (15 mins)"
+          ],
+          "morning": [
+            "Review inference strategies (30 mins)",
+            "Practice inferencing questions (1 hour)",
+            "Analyze answers and improve accuracy (30 mins)"
+          ]
+        },
+        "topics": [
+          "Inferencing Skills in Reading Passages",
+          "Strategies for Completing Summary Questions",
+          "Practice with various passage types"
+        ]
+      },
+      "period": "day",
+      "periodName": "Wednesday",
+      "title": "Wednesday's Focus: Reading - Inference & Summary Completion"
+    },
+    {
+      "date": "2025-02-06",
+      "description": {
+        "goals": [
+          "Understand the requirements of IELTS Writing Task 1",
+          "Practice analyzing bar charts effectively",
+          "Write a complete and well-structured Task 1 response"
+        ],
+        "resources": [
+          "Official IELTS Practice Materials",
+          "IELTS Writing Task 1 Sample Essays"
+        ],
+        "schedule": {
+          "afternoon": [
+            "Write a complete Task 1 response (1 hour)",
+            "Review and self-assess (30 mins)",
+            "Identify areas for improvement (30 mins)"
+          ],
+          "evening": [
+            "Review common errors in Task 1 (30 mins)",
+            "Plan Friday's Writing focus (15 mins)",
+            "Reflect on progress (15 mins)"
+          ],
+          "morning": [
+            "Review Task 1 requirements (30 mins)",
+            "Practice analyzing a sample bar chart (1 hour)",
+            "Write an overview paragraph (30 mins)"
+          ]
+        },
+        "topics": [
+          "Analyzing Bar Charts",
+          "Writing a clear and concise overview",
+          "Describing key features and trends"
+        ]
+      },
+      "period": "day",
+      "periodName": "Thursday",
+      "title": "Thursday's Focus: Writing - Task 1 - Bar Charts"
+    },
+    {
+      "date": "2025-02-07",
+      "description": {
+        "goals": [
+          "Understand the requirements of IELTS Writing Task 1 for line graphs",
+          "Practice analyzing line graphs effectively",
+          "Write a complete and well-structured Task 1 response for line graphs"
+        ],
+        "resources": [
+          "Official IELTS Practice Materials",
+          "IELTS Writing Task 1 Sample Essays (Line Graphs)"
+        ],
+        "schedule": {
+          "afternoon": [
+            "Write a complete Task 1 response (1 hour)",
+            "Review and self-assess (30 mins)",
+            "Identify areas for improvement (30 mins)"
+          ],
+          "evening": [
+            "Review common errors in Task 1 (30 mins)",
+            "Plan Saturday's focus (15 mins)",
+            "Reflect on progress (15 mins)"
+          ],
+          "morning": [
+            "Review Task 1 requirements (30 mins)",
+            "Practice analyzing a sample line graph (1 hour)",
+            "Write an overview paragraph (30 mins)"
+          ]
+        },
+        "topics": [
+          "Analyzing Line Graphs",
+          "Writing a clear and concise overview",
+          "Describing trends and changes over time"
+        ]
+      },
+      "period": "day",
+      "periodName": "Friday",
+      "title": "Friday's Focus: Writing - Task 1 - Line Graphs"
+    },
+    {
+      "date": "2025-02-08",
+      "description": {
+        "goals": [
+          "Complete a full IELTS Listening practice test",
+          "Identify strengths and weaknesses in listening skills",
+          "Analyze performance and develop strategies for improvement"
+        ],
+        "resources": [
+          "Official IELTS Practice Materials",
+          "IELTS Listening Practice Tests (Online)"
+        ],
+        "schedule": {
+          "afternoon": [
+            "Review answers and identify areas for improvement (30 mins)",
+            "Complete IELTS Listening Practice Test 1, Section 3 (30 mins)",
+            "Review answers and identify areas for improvement (30 mins)"
+          ],
+          "evening": [
+            "Complete IELTS Listening Practice Test 1, Section 4 (30 mins)",
+            "Review all answers and analyze performance (45 mins)",
+            "Plan Sunday's focus (15 mins)"
+          ],
+          "morning": [
+            "Complete IELTS Listening Practice Test 1, Section 1 (30 mins)",
+            "Review answers and identify areas for improvement (30 mins)",
+            "Complete IELTS Listening Practice Test 1, Section 2 (30 mins)"
+          ]
+        },
+        "topics": [
+          "IELTS Listening Test Overview",
+          "Practice Test 1 - Sections 1-4",
+          "Review and Analysis of Answers"
+        ]
+      },
+      "period": "day",
+      "periodName": "Saturday",
+      "title": "Saturday's Focus: Listening - Practice Test 1"
+    },
+    {
+      "date": "2025-02-09",
+      "description": {
+        "goals": [
+          "Review and assess progress made during the week",
+          "Identify areas requiring further focus",
+          "Develop a detailed study plan for the upcoming week"
+        ],
+        "resources": [
+          "All materials used this week",
+          "IELTS Study Planner (Optional)"
+        ],
+        "schedule": {
+          "afternoon": [
+            "Free time for relaxation and other activities (2 hours)",
+            "Begin planning next week's study schedule (1 hour)"
+          ],
+          "evening": [
+            "Finalize next week's study schedule (30 mins)",
+            "Reflect on overall progress (30 mins)",
+            "Prepare materials for next week (30 mins)"
+          ],
+          "morning": [
+            "Review notes from the week (1 hour)",
+            "Identify areas where further study is needed (30 mins)",
+            "Review and adjust study plan (30 mins)"
+          ]
+        },
+        "topics": [
+          "Review of the week's progress",
+          "Identify areas needing more attention",
+          "Plan for the following week's study schedule"
+        ]
+      },
+      "period": "day",
+      "periodName": "Sunday",
+      "title": "Sunday's Focus: Review & Planning"
+    }
+  ],
+  "period": "week",
+  "title": "Make Daily IELTS Study Schedule"
+}
+Period: week
+Title: Plan Week Coding Practice
+Number of entries: 7
+
+Complete Plan Details:
+{
+  "entries": [
+    {
+      "date": "2025-02-03",
+      "description": {
+        "goals": [
+          "Implement array-based stack and queue",
+          "Create a simple singly linked list",
+          "Solve 3 LeetCode easy problems related to arrays and linked lists"
+        ],
+        "resources": [
+          "Python documentation on lists",
+          "GeeksforGeeks article on linked lists"
+        ],
+        "schedule": {
+          "afternoon": [
+            "Introduction to linked lists: nodes and pointers",
+            "Implement a simple singly linked list in Python"
+          ],
+          "evening": [
+            "Practice problems on arrays and linked lists (LeetCode easy)",
+            "Review notes and code"
+          ],
+          "morning": [
+            "Review array operations (insertion, deletion, search)",
+            "Code examples of array manipulation in Python"
+          ]
+        },
+        "topics": [
+          "Arrays",
+          "Linked Lists (basic concepts)"
+        ]
+      },
+      "period": "day",
+      "periodName": "Monday",
+      "title": "Monday's Focus: Introduction to Data Structures"
+    },
+    {
+      "date": "2025-02-04",
+      "description": {
+        "goals": [
+          "Implement insertion and deletion at any position in a linked list",
+          "Solve 2 LeetCode medium problems related to linked lists",
+          "Solve 3 basic recursive problems"
+        ],
+        "resources": [
+          "GeeksforGeeks article on linked list operations",
+          "YouTube tutorial on recursion"
+        ],
+        "schedule": {
+          "afternoon": [
+            "Introduction to recursion: basic concepts and examples",
+            "Solve simple recursive problems (factorial, Fibonacci)"
+          ],
+          "evening": [
+            "Practice problems on linked lists (LeetCode medium)",
+            "Review recursive functions"
+          ],
+          "morning": [
+            "Implement various linked list operations (insertion at beginning, end, middle)", 
+            "Practice deletion operations in linked lists"
+          ]
+        },
+        "topics": [
+          "Linked Lists (traversal, insertion, deletion)",
+          "Introduction to Recursion"
+        ]
+      },
+      "period": "day",
+      "periodName": "Tuesday",
+      "title": "Tuesday's Focus: Linked Lists and Recursion"
+    },
+    {
+      "date": "2025-02-05",
+      "description": {
+        "goals": [
+          "Implement a basic binary tree",
+          "Implement insertion in a BST",
+          "Solve 2 LeetCode easy problems related to binary trees"
+        ],
+        "resources": [
+          "Visualgo BST visualization",
+          "Khan Academy video on trees"
+        ],
+        "schedule": {
+          "afternoon": [
+            "Introduction to BST: properties and operations (search, insertion, deletion)",   
+            "Implement insertion in a BST"
+          ],
+          "evening": [
+            "Practice problems on binary trees (LeetCode easy)",
+            "Review BST properties and insertion"
+          ],
+          "morning": [
+            "Introduction to binary trees: nodes, levels, properties",
+            "Implement a basic binary tree structure in Python"
+          ]
+        },
+        "topics": [
+          "Binary Trees",
+          "Binary Search Trees (BST)"
+        ]
+      },
+      "period": "day",
+      "periodName": "Wednesday",
+      "title": "Wednesday's Focus: Trees"
+    },
+    {
+      "date": "2025-02-06",
+      "description": {
+        "goals": [
+          "Implement deletion in a BST",
+          "Implement all three tree traversals",
+          "Implement an adjacency list for a graph",
+          "Solve 1 LeetCode medium problem related to BST"
+        ],
+        "resources": [
+          "GeeksforGeeks article on BST deletion",
+          "YouTube tutorial on graph representations"
+        ],
+        "schedule": {
+          "afternoon": [
+            "Introduction to graphs: nodes, edges, representations (adjacency matrix, adjacency list)",
+            "Implement an adjacency list representation"
+          ],
+          "evening": [
+            "Practice problems on BST (LeetCode medium)",
+            "Review graph representations"
+          ],
+          "morning": [
+            "Implement deletion in a BST",
+            "Implement tree traversals (inorder, preorder, postorder)"
+          ]
+        },
+        "topics": [
+          "BST (deletion, traversal)",
+          "Introduction to Graphs"
+        ]
+      },
+      "period": "day",
+      "periodName": "Thursday",
+      "title": "Thursday's Focus: BST Operations and Graphs"
+    },
+    {
+      "date": "2025-02-07",
+      "description": {
+        "goals": [
+          "Implement BFS and DFS algorithms",
+          "Solve 2 LeetCode medium problems related to graph traversal"
+        ],
+        "resources": [
+          "Visualgo graph traversal visualization",
+          "GeeksforGeeks article on BFS and DFS"
+        ],
+        "schedule": {
+          "afternoon": [
+            "Implement Depth-First Search (DFS) on a graph",
+            "Code examples and practice"
+          ],
+          "evening": [
+            "Practice problems on graph traversal (LeetCode medium)",
+            "Review BFS and DFS algorithms"
+          ],
+          "morning": [
+            "Implement Breadth-First Search (BFS) on a graph",
+            "Code examples and practice"
+          ]
+        },
+        "topics": [
+          "Graph Traversal (BFS, DFS)"
+        ]
+      },
+      "period": "day",
+      "periodName": "Friday",
+      "title": "Friday's Focus: Graph Traversal"
+    },
+    {
+      "date": "2025-02-08",
+      "description": {
+        "goals": [
+          "Solve at least 3 LeetCode medium/hard problems",
+          "Identify and address weaknesses in understanding data structures"
+        ],
+        "resources": [
+          "LeetCode",
+          "HackerRank"
+        ],
+        "schedule": {
+          "afternoon": [
+            "Attempt more challenging problems on LeetCode (medium-hard)",
+            "Work on any remaining practice problems"
+          ],
+          "evening": [
+            "Review your solutions and identify areas for improvement"
+          ],
+          "morning": [
+            "Review notes and code from this week",
+            "Focus on areas where you struggled"
+          ]
+        },
+        "topics": [
+          "Review of all data structures covered this week",
+          "Advanced problems"
+        ]
+      },
+      "period": "day",
+      "periodName": "Saturday",
+      "title": "Saturday's Focus: Review and Practice (Data Structures)"
+    },
+    {
+      "date": "2025-02-09",
+      "description": {
+        "goals": [
+          "Create a detailed plan for next week's coding practice",
+          "Identify at least 5 LeetCode problems to solve next week"
+        ],
+        "resources": [
+          "LeetCode problem list",
+          "Online course materials"
+        ],
+        "schedule": {
+          "afternoon": [
+            "Plan next week's topics (e.g., algorithms, sorting, searching)",
+            "Choose specific LeetCode problems to solve"
+          ],
+          "evening": [
+            "Prepare resources for next week's study"
+          ],
+          "morning": [
+            "Review this week's progress",
+            "Identify areas for improvement"
+          ]
+        },
+        "topics": [
+          "Planning next week's coding practice"
+        ]
+      },
+      "period": "day",
+      "periodName": "Sunday",
+      "title": "Sunday's Focus: Planning for Next Week"
+    }
+  ],
+  "period": "week",
+  "title": "Plan Week Coding Practice"
+}
+Query: Plan monthly savings strategy
+Time taken: 24.39 seconds
+--------------------------------------------------------------------------------
+Period: month
+Title: Plan Monthly Savings Strategy
+Number of entries: 4
+
+Complete Plan Details:
+{
+  "entries": [
+    {
+      "date": "2025-01-27 to 2025-02-02",
+      "description": {
+        "budget": {
+          "expenses": [
+            "Rent/Mortgage",
+            "Groceries"
+          ],
+          "income": [
+            "Salary",
+            "Side hustle income (if any)"
+          ],
+          "savings": [
+            "Emergency fund contribution",
+            "Initial investment contribution (if applicable)"
+          ]
+        },
+        "goals": {
+          "expense_reduction": "0",
+          "investment_allocation": "50",
+          "savings_target": "100"
+        },
+        "tasks": [
+          "Track all income and expenses for the week",
+          "Categorize expenses",
+          "Open a dedicated savings account (if you don't have one)"
+        ],
+        "tips": [
+          "Use budgeting apps to track spending",
+          "Review bank statements for recurring expenses",
+          "Identify areas where you can potentially cut back"
+        ],
+        "tracking": {
+          "current_balance": "",
+          "expense_categories": [
+            "Housing",
+            "Food",
+            "Transportation",
+            "Utilities"
+          ],
+          "savings_progress": ""
+        }
+      },
+      "period": "week",
+      "periodName": "Week 1",
+      "title": "Assess Income & Expenses"
+    },
+    {
+      "date": "2025-02-03 to 2025-02-09",
+      "description": {
+        "budget": {
+          "expenses": [
+            "Transportation costs",
+            "Entertainment"
+          ],
+          "income": [
+            "Salary",
+            "Freelance work (if any)"
+          ],
+          "savings": [
+            "Emergency fund contribution",
+            "Retirement fund contribution"
+          ]
+        },
+        "goals": {
+          "expense_reduction": "25",
+          "investment_allocation": "75",
+          "savings_target": "150"
+        },
+        "tasks": [
+          "Analyze Week 1 data to identify areas for improvement",
+          "Set realistic savings goals for the month",
+          "Create a detailed monthly budget"
+        ],
+        "tips": [
+          "Automate savings transfers",
+          "Use the 50/30/20 rule (50% needs, 30% wants, 20% savings)",
+          "Negotiate lower bills (internet, phone)"
+        ],
+        "tracking": {
+          "current_balance": "",
+          "expense_categories": [
+            "Entertainment",
+            "Dining Out",
+            "Clothing",
+            "Subscriptions"
+          ],
+          "savings_progress": ""
+        }
+      },
+      "period": "week",
+      "periodName": "Week 2",
+      "title": "Refine Budget & Set Savings Goals"
+    },
+    {
+      "date": "2025-02-10 to 2025-02-16",
+      "description": {
+        "budget": {
+          "expenses": [
+            "Debt payments (if any)",
+            "Household supplies"
+          ],
+          "income": [
+            "Salary",
+            "Bonus (if applicable)"
+          ],
+          "savings": [
+            "Emergency fund contribution",
+            "Investment contribution"
+          ]
+        },
+        "goals": {
+          "expense_reduction": "50",
+          "investment_allocation": "100",
+          "savings_target": "200"
+        },
+        "tasks": [
+          "Stick to your budget",
+          "Monitor spending daily or weekly",
+          "Adjust budget as needed based on tracking"
+        ],
+        "tips": [
+          "Use cash envelopes for discretionary spending",
+          "Pack your lunch instead of eating out",
+          "Utilize free or low-cost entertainment options"
+        ],
+        "tracking": {
+          "current_balance": "",
+          "expense_categories": [
+            "Healthcare",
+            "Personal care",
+            "Gifts",
+            "Travel"
+          ],
+          "savings_progress": ""
+        }
+      },
+      "period": "week",
+      "periodName": "Week 3",
+      "title": "Implement Budget & Track Progress"
+    },
+    {
+      "date": "2025-02-17 to 2025-02-23",
+      "description": {
+        "budget": {
+          "expenses": [
+            "Unexpected expenses",
+            "Savings contributions"
+          ],
+          "income": [
+            "Salary",
+            "Other income sources"
+          ],
+          "savings": [
+            "Emergency fund top-up",
+            "Investment contributions"
+          ]
+        },
+        "goals": {
+          "expense_reduction": "75",
+          "investment_allocation": "125",
+          "savings_target": "250"
+        },
+        "tasks": [
+          "Review your progress towards your goals",
+          "Analyze your spending patterns",
+          "Adjust your budget for the next month based on your findings"
+        ],
+        "tips": [
+          "Reward yourself for reaching milestones",
+          "Don't be discouraged by setbacks \u2013 learn from them",
+          "Continue to track your progress and make adjustments as needed"
+        ],
+        "tracking": {
+          "current_balance": "",
+          "expense_categories": [
+            "Education",
+            "Insurance",
+            "Taxes",
+            "Debt payments"
+          ],
+          "savings_progress": ""
+        }
+      },
+      "period": "week",
+      "periodName": "Week 4",
+      "title": "Review, Adjust, & Celebrate Progress"
+    }
+  ],
+  "period": "month",
+  "title": "Plan Monthly Savings Strategy"
+}
